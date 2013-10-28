@@ -1,0 +1,5 @@
+C:\Users\Devin\SkyDrive\Documents\Project 6\Practice Problems\DynamicResize\DynamicResize\DynamicResize\bin\DynamicResize.dll
+C:\Users\Devin\SkyDrive\Documents\Project 6\Practice Problems\DynamicResize\DynamicResize\DynamicResize\bin\DynamicResize.pdb
+C:\Users\Devin\SkyDrive\Documents\Project 6\Practice Problems\DynamicResize\DynamicResize\DynamicResize\obj\Debug\DynamicResize.csprojResolveAssemblyReference.cache
+C:\Users\Devin\SkyDrive\Documents\Project 6\Practice Problems\DynamicResize\DynamicResize\DynamicResize\obj\Debug\DynamicResize.dll
+C:\Users\Devin\SkyDrive\Documents\Project 6\Practice Problems\DynamicResize\DynamicResize\DynamicResize\obj\Debug\DynamicResize.pdb

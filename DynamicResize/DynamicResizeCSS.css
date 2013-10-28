@@ -1,0 +1,35 @@
+/*DynamicResizeCSS.css*/
+
+#x1920{
+	background-color:yellow;
+	width: 1920; height: 985;
+	position: absolute;
+	z-index:-999;
+	visibility: hidden;
+}
+
+#x1280{
+	background-color:green;
+	width:1280; height:705;
+	position: absolute;
+	z-index:-998;
+	visibility: hidden;
+}
+
+#x944{
+	background-color: orange;
+	width: 944; height: 977;
+	position: absolute;
+	z-index:-997;
+	visibility: hidden;
+}
+
+#x624
+{
+    background-color: lime;
+    width: 624;
+    height: 697;
+    position: absolute;
+    z-index: -996;
+    visibility: hidden;
+}
